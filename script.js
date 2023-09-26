@@ -23,6 +23,6 @@ function changeTextColor() {
   text.style.color = getRandomColor();
 }
 
-setInterval(changeColor, 1000);
-setInterval(changeHeadingColor, 1000);
-setInterval(changeTextColor, 1000);
+setInterval(changeColor, 2000);
+setInterval(changeHeadingColor, 2000);
+setInterval(changeTextColor, 2000);

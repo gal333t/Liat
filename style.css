@@ -18,7 +18,8 @@ p {
   transform: translate(-50%, -50%);
 }
 
-.inner-div {
+.inner-div,
+.heading {
   margin: 0 auto;
   width: 50%;
 }
